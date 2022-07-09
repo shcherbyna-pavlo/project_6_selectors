@@ -1,0 +1,9 @@
+[href^="https"] {
+   color: red;
+}
+.list>li+li>[href="#"] {
+   background: green;
+}
+ul+p {
+   font-size: 26px;
+}
